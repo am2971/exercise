@@ -1,1 +1,0 @@
-This is a file to practise renaming and deleting a file
