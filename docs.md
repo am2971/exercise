@@ -2,4 +2,4 @@ This documentation describes how to use the Karel automatic toothbrush on a dail
 
 Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees.
 
-The toothbrush must be charged to work.
+The toothbrush must be charged to work. a USB charger is provided
